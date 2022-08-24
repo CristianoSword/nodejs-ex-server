@@ -1,5 +1,5 @@
 # nodejs-ex-server
-Exemplo simples de servidor web no node js
+Exemplo simples de servidor web no node js.
 
 ## Usage
 ```bash
